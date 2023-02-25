@@ -23,6 +23,10 @@ We welcome contributions from the community. If you would like to contribute to 
 
 If you find any issues with AITexter, please let us know by opening an issue on our GitHub repository.
 
+## Connected Repositories
+
+- [AITexter-backend](https://github.com/AvishaiDotan/AiTexter-backend) - the backend for AITexter
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
